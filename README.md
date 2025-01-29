@@ -1,7 +1,5 @@
 # ConsonantSwap
 
-# ConsonantSwap
-
 ## 📜 Description
 ConsonantSwap is a simple C++ algorithm that replaces consonants with similar-sounding consonants at specific indices in a string. The program takes user input (a word or phrase) and modifies every nth consonant, where `n` defaults to `2`. The consonant substitutions are based on predefined phonetic similarities.
 
