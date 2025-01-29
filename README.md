@@ -42,7 +42,3 @@ The function `replaceConsonantsAtIndices` allows customization of the interval a
 - 🔢 Allow users to specify `n` dynamically.
 - 🗣 Expand the consonant mapping for more phonetic variations.
 - 🌎 Add support for multiple languages.
-
-## 📝 License
-This project is open-source and available under the **MIT License**.
-
